@@ -9,7 +9,7 @@ In addition to my programming skills, I am skilled in performing technical analy
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/iakigarci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iakigarci" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/iakigarcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iakigarci" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/iakigarci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="iakigarci" height="30" width="40" /></a>
 </p>
 
