@@ -42,6 +42,7 @@ Databases:
 
 Frameworks:
   Python:
+    - Django
     - Flask
     - FastAPI
   TypeScript/JavaScript:
