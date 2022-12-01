@@ -15,23 +15,21 @@ In addition to my programming skills, I am skilled in performing technical analy
 
 ## 💻 Tech Stack:
 ```yml
-Languges:
+Languages:
   - Java
   - Python
   - TypeScript/JavaScript
-  - PHP
   - C/C++/C#
-  - Visual Basic
+  - Go
 
 Hardware:
   Servers/Microservices: 
     - Linux Server
     - Windows Server
-    - Kubernetes
+    - Docker/Kubernetes
   Cloud:
-    - Azure
-    - SAP BTP
     - AWS
+    - SAP BTP
     
 Databases:
   - MySQL
@@ -50,12 +48,14 @@ Frameworks:
     - Vue
     - React
     - Node
-  GraphQl: 
-    - Apollo
+Services:
+  - GraphQL
+  - gRPC
     
 Other: 
   - Git
   - SCRUM
   - SonarQube
   - CI/CD principles
+  - DDD
 ```
