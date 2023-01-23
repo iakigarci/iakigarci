@@ -18,44 +18,43 @@ In addition to my programming skills, I am skilled in performing technical analy
 Languages:
   - Java
   - Python
+  - Go
   - TypeScript/JavaScript
   - C/C++/C#
   - Go
+  - Bash
+  - SQL
+Frameworks: 
+  - Gin
+  - FastAPI
+  - NodeJS
+  - Vue
 
-Hardware:
-  Servers/Microservices: 
+Infrastrctures:
+  Servers/Services: 
     - Linux Server
     - Windows Server
     - Docker/Kubernetes
+    - SonarQube
   Cloud:
     - AWS
     - SAP BTP
     
 Databases:
   - MySQL
-  - Oracle
   - PostgreSQL
-  - Redis
   - MongoDB
 
-Frameworks:
-  Python:
-    - Django
-    - Flask
-    - FastAPI
-  TypeScript/JavaScript:
-    - Express
-    - Vue
-    - React
-    - Node
-Services:
+Methodologies & Architectures:
   - GraphQL
   - gRPC
+  - REST
+  - DDD
+  - MVC
+  - OOP
     
 Other: 
   - Git
   - SCRUM
-  - SonarQube
   - CI/CD principles
-  - DDD
 ```
