@@ -30,7 +30,7 @@ Frameworks:
   - NodeJS
   - Vue
 
-Infrastrctures:
+Infrastructures:
   Servers/Services: 
     - Linux Server
     - Windows Server
