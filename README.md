@@ -15,22 +15,25 @@ In addition to my programming skills, I am skilled in performing technical analy
 
 ## 💻 Tech Stack:
 ```yml
-Languages:
-  - Java
-  - Python
-  - Go
-  - TypeScript/JavaScript
-  - C/C++/C#
-  - Go
-  - Bash
-  - SQL
-Frameworks: 
-  - Gin
-  - FastAPI
-  - NodeJS
-  - Vue
+Code:
+  Languages:
+    - Go
+    - Python
+    - TypeScript/JavaScript
+    - Java
+    - Bash
+    - SQL
+  Frameworks: 
+    - Gin
+    - FastAPI
+    - NodeJS
+    - Vue
+  Databases:
+    - MySQL
+    - PostgreSQL
+    - MongoDB
 
-Infrastructures:
+Architecture:
   Servers/Services: 
     - Linux Server
     - Windows Server
@@ -39,22 +42,16 @@ Infrastructures:
   Cloud:
     - AWS
     - SAP BTP
-    
-Databases:
-  - MySQL
-  - PostgreSQL
-  - MongoDB
+  API: 
+    - GraphQL
+    - gRPC
+    - REST
 
-Methodologies & Architectures:
-  - GraphQL
-  - gRPC
-  - REST
+Methodologies & Other:
   - DDD
   - MVC
   - OOP
-    
-Other: 
   - Git
-  - SCRUM
+  - SCRUM/Kanban
   - CI/CD principles
 ```
